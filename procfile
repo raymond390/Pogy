@@ -1,2 +1,1 @@
-Worker: node .
-web: npm start
+node shard.js
