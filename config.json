@@ -1,25 +1,14 @@
 {
   "main_token": "", 
-  "mongodb_url": "", //mongo db URL
-  "developers": ["", ""], //developers ID
-  "datadogApiKey": "", // for statistics (optional)
-  "dashboard":"false", 
-  "prefix":"p!", //prefix
-  "arc":"",//arc.io source (optional)
-  "youtube_key":"", //youtube api key from https://console.cloud.google.com/apis/
-  "cat_api_key":"",// https://thecatapi.com/signup
-  "webhook_id":"", //read down
-  "webhook_url":"" //read down
+  "mongodb_url": "mongodb+srv://Raymond:nNWreqrFja1I7vdO@cluster0.dolzr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", 
+  "datadogApiKey": "", 
+  "dashboard":"true", 
+  "prefix":"!",  
+  "arc":"",
+  "youtube_key":"", 
+  "cat_api_key":"b52bc90d-0b19-4c78-bb43-92a0b79bc96f",
+  "webhook_id":"931194975134302308", 
+  "webhook_url":"dlsQjn-5tWbWZiRU1TYBC6aGmXUVrgxn7jvisaEkfqio7mhT2MXJBKg_pd2ff1MnszXe" 
 }
 
 
-/*
-
-Webhooks:
-
-Let's say the webhook is https://discord.com/api/webhooks/816749354005299310/kxlyH1zDXyJUZxzYfzbfULggsWqXW0kkKsC-uHQ0ujm4pBJC6EBbysBx1ycnMiz9OujI
-
-webhook_id Will be 816749354005299310
-webhook_url will be kxlyH1zDXyJUZxzYfzbfULggsWqXW0kkKsC-uHQ0ujm4pBJC6EBbysBx1ycnMiz9OujI
-
-*/
